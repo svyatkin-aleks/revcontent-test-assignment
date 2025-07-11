@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+.Python
+
+# dotenv environment files
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test/report artifacts
+.coverage
+*.log
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+.eggs/
